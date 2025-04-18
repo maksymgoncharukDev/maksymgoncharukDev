@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Maksym 👋
 
 🎯 Software Developer focused on Python and Web Development  
