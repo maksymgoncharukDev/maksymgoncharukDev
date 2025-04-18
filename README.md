@@ -19,7 +19,6 @@
 
 ## 🚀 About Me
 - 🧠 MSc in Electrical Engineering (Kyiv Polytechnic Institute)
-- 🇺🇦 Originally from Ukraine, now based in Canada
 - 👨‍💻 Transitioned from field technician to Software Developer
 
 <!--
