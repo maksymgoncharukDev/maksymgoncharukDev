@@ -1,25 +1,21 @@
 ## Hi there 👋
 
-# Hi there, I'm Max 👋
+# Hi there, I'm Maksym 👋
 
 🎯 Software Developer focused on Python and Web Development  
-💻 Core stack: Python, Flask, HTML, CSS, JavaScript  
-🎮 Exploring Game Development with Python as a hobby  
+💻 Core stack: Python, Flask, HTML, CSS, JavaScript(in-proces)  
 📚 Currently working through the "100 Days of Code: Python Bootcamp"
 
 ---
 
 ## 🛠️ Projects
-- 🔥 [Flask Blog](https://github.com/YOUR_USERNAME/flask-blog) – A fully functional blog with user authentication, comments, and email integration  
-- 🎮 [Tic Tac Toe AI](https://github.com/YOUR_USERNAME/tic-tac-toe-ai) – A terminal-based game with a simple AI opponent  
-- 🔧 [Auto Scripts](https://github.com/YOUR_USERNAME/auto-scripts) – A collection of automation scripts for everyday tasks  
-- 📊 [Weather Dashboard](https://github.com/YOUR_USERNAME/weather-dashboard) – A weather app that fetches data from an API and displays it nicely
+- 🔥 [Flask Blog]([https://github.com/YOUR_USERNAME/flask-blog](https://github.com/maksymgoncharukDev/Maksym-Blog.)) – A fully functional blog with user authentication, comments, and email integration  
 
 ---
 
 ## 📫 Contact Me
-- Email: [your@email.com](mailto:your@email.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(if available)*
+- Email: goncharukmaksym1989@gmail.com
+- LinkedIn: www.linkedin.com/in/maksym-goncharuk-116b13243
 
 ---
 
