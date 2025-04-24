@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Projects
-- 🔥 [Flask Blog]([https://github.com/YOUR_USERNAME/flask-blog](https://github.com/maksymgoncharukDev/Maksym-Blog.)) – A fully functional blog with user authentication, comments, and email integration
+- 🔥 [Flask Blog]   https://maksym-amazing-blog.onrender.com/ – A fully functional blog with user authentication, comments, and email integration
 - To-Do List Web App:  https://maximg.pythonanywhere.com/  - Created a lightweight and user-friendly To-Do List application using Flask.
 
 ---
